@@ -1,3 +1,15 @@
+Fork to create local Saklia database on SQL Server to show sample SQL queries on Saklia database
+
+Sample queries
+
+
+
+
+
+Original Readme below:
+
+
+
 Sakila sample database was ported to the following databases
 
  Oracle
